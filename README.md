@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![](https://media-exp1.licdn.com/dms/image/C5616AQEBgpiyzUHhbQ/profile-displaybackgroundimage-shrink_350_1400/0/1517488192477?e=1620864000&v=beta&t=3wwT5IqZJvmPi9y0BBeq6HAoorDYDK2X2PWHZ0Ul8f4)
 
 

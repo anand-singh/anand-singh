@@ -1,7 +1,5 @@
 ![](profile_back.jpeg)
 
-### PROFILE
-
 An organized, detail-oriented, and
 conscientious self-starter, able to
 strategize and prioritize effectively,

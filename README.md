@@ -1,20 +1,25 @@
-![](https://media-exp1.licdn.com/dms/image/C5616AQEBgpiyzUHhbQ/profile-displaybackgroundimage-shrink_350_1400/0/1517488192477?e=1620864000&v=beta&t=3wwT5IqZJvmPi9y0BBeq6HAoorDYDK2X2PWHZ0Ul8f4)
+![](profile_back.jpeg)
 
+### PROFILE
 
+An organized, detail-oriented, and
+conscientious self-starter, able to
+strategize and prioritize effectively,
+highly skilled, dedicated & result
+oriented professional with strong
+business perspective to technology,
+especially in Product Development
+based scenario with 9+ years of
+experience in renowned IT
+organizations including HCL, IDEMIA
+India, Sapient, Knoldus and WE
+Software Solutions.
 
-<!--
-**anand-singh/anand-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Technologies I Love: 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java, Scala, Cats, Play
+Framework, Akka, AkkaHTTP, Kafka, AzureDevOps, AWS, Git, InteliJ Idea, Unix, JavaScript,
+Bootstrap, NoSQL (Elasticsearch,
+MongoDB), Kibana and Microservice Architecture.
 
 
